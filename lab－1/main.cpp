@@ -8,10 +8,6 @@
 
 #include <windows.h>
 #include <iostream>
-
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
 const unsigned short SIZE_OF_BUFFER = 10; //缓冲区长度
 unsigned short ProductID = 0; //产品号
 unsigned short ConsumeID = 0; //将被消耗的产品号
